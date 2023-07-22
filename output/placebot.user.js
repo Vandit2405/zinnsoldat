@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         r/placeDE Zinnsoldat
+// @name         Blueybot
 // @namespace    http://tampermonkey.net/
 // @version      0.4
 // @description  Einer von uns!
 // @author       placeDE Devs
 // @match        https://*.reddit.com/r/place/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @updateURL    https://github.com/PlaceDE-Official/zinnsoldat/raw/main/output/placebot.user.js
-// @downloadURL  https://github.com/PlaceDE-Official/zinnsoldat/raw/main/output/placebot.user.js
+// @updateURL    https://github.com/Vandit2405/zinnsoldat/raw/main/output/placebot.user.js
+// @downloadURL  https://github.com/Vandit2405/zinnsoldat/raw/main/output/placebot.user.js
 // ==/UserScript==
 (async () => {
     // Check for correct page
